@@ -62,7 +62,7 @@ These slicers allow users to filter the dashboard and explore the sales data fro
 The dashboard provides a visual summary of the sales performance analysis, including key metrics, charts and interactive filters.
 
 ## Project Files
-[Download the Excel Workbook](./Sales%20Analysis%20Project%20%28EXCEL%29.xlsx)
+[Download the Excel Workbook](./SALES%20ANALYSIS%20PROJECT%20%28EXCEL%29.xlsx)
 - Excel workbook containing the sales dataset, calculations, pivot summaries and dashboard.
 - Dashboard screenshot for visual reference.
 
